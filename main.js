@@ -1,1 +1,1 @@
-console.log("Mój zewnętrzny kod działa!");
+console.log("Its alive!");
